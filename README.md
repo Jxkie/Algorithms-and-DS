@@ -1,2 +1,2 @@
-# Alg-DS
+# A&DS
 Algorithms and data structures
